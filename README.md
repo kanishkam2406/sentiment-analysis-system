@@ -66,4 +66,3 @@ npm run dev
 5.  Frontend visualizes the aggregated "Mood" of the internet.
 
 ---
-*Built for College Final Year Project 2024.*
