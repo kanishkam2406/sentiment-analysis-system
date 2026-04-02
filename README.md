@@ -2,8 +2,7 @@
 
 A production-grade, full-stack application that analyzes real-time public sentiment on any topic using a **Hybrid Data Engine** (Twitter, Google News, and Context-Aware Simulation).
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Sentiment+Tracker+Dashboard)  
-*Analyze Markets, Tech, and Global Trends in Real-Time.*
+
 
 ## 🚀 Key Features
 
